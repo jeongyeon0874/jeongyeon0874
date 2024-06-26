@@ -72,7 +72,7 @@
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [linkedin]: https://linkedin.com/in/
-[instagram]: https://instagram.com/_sokuri
+[instagram]: ![](https://www.instagram.com/1_14.jy?igsh=ejZ0Nm9oemVmZzdv&utm_source=qr)
 ---
 
 

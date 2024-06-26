@@ -5,7 +5,9 @@
 
 <h3 align="center"><b>❤️About me❤️</b></h3>
 
-<p align="center">안녕하세요! 저는 이정연입니다. 현재 서원대학교 컴퓨터공학과에 재학중입니다. 제 GitHub 프로필에 오신 것을 환영합니다!
+<p align="center">안녕하세요! 저는 이정연입니다. 
+<p align="center">  현재 서원대학교 컴퓨터공학과에 재학중입니다. 
+<p align="center">제 GitHub 프로필에 오신 것을 환영합니다!
 
 <h3 align="center">❤️ I like...</h3>
 <p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🍔Eat,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
@@ -29,7 +31,7 @@
 
 ## 👩‍💻Projects
 
-**웨딩홀 예약 플랫폼** 👩‍❤️‍💋‍👨💍
+**웨딩홀 예약 플랫폼** 💍
 
 - **개요** 내 스타일에 맞는 웨딩홀을 찾아보고 예약하기
 - **기술 스택:** Java, mySQL

@@ -1,5 +1,4 @@
-<p align="center">#  ❤️🫣Hi there, I'm Jeong Yeon LEE! 🤗❤️
-
+<h1 align="center">❤️🫣Hi there, I'm Jeong Yeon LEE!🤗❤️  </h1>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20JeongYeon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
@@ -23,35 +22,35 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 
-### Tools & Platforms
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 👩‍💻Projects
 
- <h6> 웨딩홀 예약 프로그램 </h6>
+**웨딩홀 예약 플랫폼** 👩‍❤️‍💋‍👨💍
 
-- **Description:** 프로젝트 1에 대한 간단한 설명.
-- **Tech Stack:** 사용된 주요 기술들 (예: React, Node.js, MongoDB)
-- **Highlights:**
-  - 주요 기능 1
-  - 주요 기능 2
-  - 주요 기능 3
+- **개요** 내 스타일에 맞는 웨딩홀을 찾아보고 예약하기
+- **기술 스택:** Java, mySQL
+- **⭐주요 기능**
+  - 회원 정보 관리
+  - 웨딩홀 예약 관리
+  - 이벤트 관리
 
-### [Project Name 2](https://github.com/yourusername/projectname2)
+**스마트 식물 재배기** 🪴
+- **개요** 식물이 선호하는 식물 환경 ( 물주기 기간, 물의 양, 필요한 햇빛의 양, 적정 온도 ,환기 ) 등을 자동으로 케어
+- **기술 스택:**  Python, Java, mySQL, Flask
+- **⭐주요 기능**
+  - 회원 정보 관리
+  - 식뭄재배기 관리
+  - 커뮤니티 관리
 
-- **Description:** 프로젝트 2에 대한 간단한 설명.
-- **Tech Stack:** 사용된 주요 기술들 (예: Python, Django, PostgreSQL)
-- **Highlights:**
-  - 주요 기능 1
-  - 주요 기능 2
-  - 주요 기능 3
 
 ## GitHub Stats
 ![tnals545's github stats](https://github-readme-stats.vercel.app/api?username=jeongyeon0874&show_icons=true&theme=tokyonight)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongyeon0874)](https://solved.ac/jeongyeon0874/)
 
-### Connect with me:
+### 좋댓구
 
 
 [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]

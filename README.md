@@ -1,16 +1,16 @@
-# Hi there, I'm Jeong Yeon LEE! 👋❤️
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+#  ❤️🫣Hi there, I'm Jeong Yeon LEE! 🤗❤️
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20JeongYeon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
 <h3 align="center"><b>❤️About me❤️</b></h3>
 
-안녕하세요! 저는 이정연입니다.
-제 GitHub 프로필에 오신 것을 환영합니다!
+안녕하세요! 저는 이정연입니다. 현재 서원대학교 컴퓨터공학과에 재학중입니다. 제 GitHub 프로필에 오신 것을 환영합니다!
 
 <h3 align="center">❤️ I like...</h3>
-<p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
+<p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🍔Eat,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
 
 ## Skills
 
@@ -68,7 +68,7 @@
 [<img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
-[website]: https://velog.io/@imysh578
+
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [linkedin]: https://linkedin.com/in/
